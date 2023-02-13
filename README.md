@@ -1,6 +1,6 @@
 ### Olá eu sou o Guilherme!!!
 
-- 🌱 Estudando FrontEnd mas pretendo estudar BackEnd também
+- 🌱 Estudando FrontEnd e pretendo estudar BackEnd também
 
 <div>
 <a href="https://github.com/Guihhh-Lopes">
