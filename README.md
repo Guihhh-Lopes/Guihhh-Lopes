@@ -1,6 +1,6 @@
 ### Olá eu sou o Guilherme!!!
 
-- 🌱 Estudando FrontEnd e pretendo estudar BackEnd também
+- 🌱 Fazendo Faculdade em Análise e Desenvolvimento de Sistemas na UDF
 
 <div>
 <a href="https://github.com/Guihhh-Lopes">
